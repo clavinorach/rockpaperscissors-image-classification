@@ -1,2 +1,2 @@
-# Aplikasi-Login
-Sebuah aplikasi dengan fitur login
+# Image Classificaition
+Submission Dicoding "Belajar Machine Learning untuk Pemula"
